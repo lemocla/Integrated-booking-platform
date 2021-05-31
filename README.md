@@ -54,9 +54,7 @@ Since the company was sold, the developer do not have any longer access to the p
       - Automated “new appointment” email to clerks with a link to accept / decline appointments & a booking summary.
       - Appointments will display in clerk portal in both their dashboard and calendar 
       - Automated notification to Papoose Property Services up acceptation/declination appointment
-
       ![assign clerk](images/calendar_assign.png)
-
     - #### Reassign clerks 
 
       - Automated “new appointment” email to new clerks
@@ -66,10 +64,7 @@ Since the company was sold, the developer do not have any longer access to the p
 
     - Automated confirmation email to customers (and other contacts as per instructions in booking form)
     - Update booking status across the platform 
-
     ![email confirmation](images/email_confirmation.png)
-
-  
   - ### Cancellation 
 
     - Automated cancellation email to customers
@@ -83,9 +78,7 @@ Since the company was sold, the developer do not have any longer access to the p
     - Create invoice and credit note
     - Upload reports using link with google drive
     - Automated email to customers sending reports  
-
     ![taskboard](images/taskboard_sendreport.png)
-
   - ### Invoicing integrated with Zoho Books
 
     - Update / edit order details and add promotional code
@@ -100,9 +93,7 @@ Since the company was sold, the developer do not have any longer access to the p
     - Create and edit items with price and duration according to job type parameters
     - Fully integrated with Zoho books
     - Schedule price changes
-
     ![catalogue](images/catalogue.png)
-
   - ### Price list customer 
 
     - Create and assign bespoke price list to customer based on main catalogue
@@ -117,9 +108,7 @@ Since the company was sold, the developer do not have any longer access to the p
     - Schedule for price changes
     - Print / download user friendly price list
     - Accessible from the portal
-
     ![price list](images/Price_list.png)
-
 
 ## Parameters 
 
