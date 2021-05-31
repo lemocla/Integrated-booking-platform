@@ -17,6 +17,8 @@
 
 Since the company was sold, the developer do not have any longer access to the platform and the information below will hopefully provide an insight in the features the booking   system offered. 
 
+The presentation can be seen [here](Papoose Booking Sytem.pptx)
+
 ## Technology used
 
   - Zoho creator database and deluge scripting for functions and workflows
